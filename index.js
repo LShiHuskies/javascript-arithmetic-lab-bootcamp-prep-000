@@ -16,6 +16,7 @@ function inc(n){
 function dec(n){
   return --n
 }
-function makeInt(7){
-  return parseInt('7', 10)
+function makeInt(n){
+  return parseInt('n', 10)
 }
+
