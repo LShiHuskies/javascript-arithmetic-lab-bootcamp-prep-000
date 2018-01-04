@@ -16,3 +16,7 @@ function inc(n){
 function dec(n){
   return --n
 }
+function makeInt(2.222){
+  return parseInt('2.222', 10)
+}
+
