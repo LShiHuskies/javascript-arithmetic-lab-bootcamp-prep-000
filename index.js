@@ -22,6 +22,4 @@ function makeInt(n){
 function makeInt(string){
   return parseInt(string, 10)
 }
-preserveDecimal(10.3224){
-  parseFloat('10.3224')
-}
+
