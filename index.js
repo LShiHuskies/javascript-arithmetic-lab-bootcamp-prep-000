@@ -1,6 +1,6 @@
 function add(x,y){
   return x + y
 }
-function sub(x,y){
-  return y - x
+function sub(a,b){
+  return b - a
 }
